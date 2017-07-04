@@ -1,5 +1,7 @@
 # Drupal Getting Started
 
+- [Original Repository](https://github.com/janoka/drupal8-getting-started)
+
 ## Installation
 
 ### Prerequisites
@@ -13,7 +15,7 @@
 git clone https://github.com/janoka/drupal8-getting-started.git
 
 # Run Docker installation.
-docker-compose 
+docker-compose up -d
 
 # Open the webpage for Drupal installation.
 # On MacOS:
