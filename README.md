@@ -19,6 +19,6 @@ docker-compose up -d
 
 # Open the webpage for Drupal installation.
 # On MacOS:
-open http://localhost:8080
+http://drupal.docker.localhost:8000/
 ````
 
