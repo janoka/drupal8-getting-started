@@ -2,13 +2,11 @@
 
 - [Original Repository](https://github.com/janoka/drupal8-getting-started)
 
-## Installation
-
-### Prerequisites
+## Prerequisites
 
 - [Docker](https://docs.docker.com/engine/installation/), use the **Stable channel**.
 
-### Start
+## Installation and Start
 
 ````
 # Clone this repository.
@@ -22,3 +20,10 @@ docker-compose up -d
 http://drupal.docker.localhost:8000/
 ````
 
+## Stop
+
+Please run the following command to stop the solution.
+
+````
+docker-compose down
+````
