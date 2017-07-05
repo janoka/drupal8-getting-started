@@ -15,10 +15,12 @@ git clone https://github.com/janoka/drupal8-getting-started.git
 # Run Docker installation.
 docker-compose up -d
 
-# Open the webpage for Drupal installation.
-# On MacOS:
-[http://drupal.docker.localhost:8000/](http://drupal.docker.localhost:8000/)
 ````
+
+Open the webpage for Drupal installation.
+
+[http://drupal.docker.localhost:8000/](http://drupal.docker.localhost:8000/)
+
 
 ## Stop
 
