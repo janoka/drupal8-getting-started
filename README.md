@@ -17,9 +17,8 @@ docker-compose up -d
 
 ````
 
-Open the webpage for Drupal installation.
+Open the [webpage](http://drupal.docker.localhost:8000/) for Drupal installation.
 
-[http://drupal.docker.localhost:8000/](http://drupal.docker.localhost:8000/)
 
 
 ## Stop
