@@ -14,12 +14,9 @@ git clone https://github.com/janoka/drupal8-getting-started.git
 
 # Run Docker installation.
 docker-compose up -d
-
 ````
 
 Open the [webpage](http://drupal.docker.localhost:8000/) for Drupal installation.
-
-
 
 ## Stop
 
