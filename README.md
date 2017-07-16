@@ -25,3 +25,7 @@ Please run the following command to stop the solution.
 ````
 docker-compose down
 ````
+
+## Resources
+
+- Based on: [Docker4Drupal](https://github.com/wodby/docker4drupal) project, [Documentation](https://docker4drupal.readthedocs.io/en/latest/)
